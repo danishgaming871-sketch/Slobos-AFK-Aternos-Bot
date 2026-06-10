@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "bot mc",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "SuperSMP-KNQ1.aternos.me",
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": true,
+    "beds": false,
     "chat": true
     "console-commands": true
   },
