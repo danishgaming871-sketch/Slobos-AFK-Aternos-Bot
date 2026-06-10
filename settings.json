@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "SuperSMP-KNQ1.aternos.me",
@@ -60,8 +60,8 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
-    "chat": true,
+    "beds": true,
+    "chat": true
     "console-commands": true
   },
   "combat": {
